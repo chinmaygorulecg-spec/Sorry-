@@ -368,7 +368,17 @@ Typewriter Message
 
 #typing{
 
+    #typing{
+
     min-height:250px;
+
+    max-height:45vh;
+
+    overflow-y:auto;
+
+    padding-right:8px;
+
+}
 
     text-align:left;
 
