@@ -234,6 +234,12 @@ color:white;
 
 max-width:650px;
 
+max-height:85vh;
+
+overflow-y:auto;
+
+}
+
 }
 
 /* ===========================
@@ -368,25 +374,19 @@ Typewriter Message
 
 #typing{
 
-    #typing{
-
-    min-height:250px;
-
-    max-height:45vh;
-
-    overflow-y:auto;
-
-    padding-right:8px;
-
-}
-
     text-align:left;
 
     white-space:pre-line;
 
-    line-height:2;
+    line-height:1.8;
 
-    margin-top:25px;
+    margin-top:20px;
+
+    max-height:40vh;
+
+    overflow-y:auto;
+
+    padding-right:10px;
 
 }
 
